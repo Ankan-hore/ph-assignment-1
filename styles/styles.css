@@ -73,3 +73,48 @@ nav {
 .action-image img{
     border-radius: 48px;
 }
+
+
+/* User  */
+
+.user-title{
+    font-weight: bold;
+    font-size: 38px;
+}
+.user-title{
+    text-align: center;
+    padding-top: 50px;
+}
+.number-of-active-users{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+    margin: 0;
+}
+.number-of-focus-sessions{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+     margin: 0;
+}
+.satisfaction-rate{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+     margin: 0;
+}
+
+.outer-section-of-user{
+    margin: 100px 159px 0px 141px;
+    background-color: #e8e8fc;
+    border-radius: 24px;
+}
+
+.User-count{
+    display: flex;
+    justify-content: space-around;
+}
+
+.user-subtitle{
+    margin-bottom: 50px;
+}
