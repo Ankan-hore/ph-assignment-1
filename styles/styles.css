@@ -31,7 +31,13 @@ nav {
     padding: 12px 36px;
     border-radius: 10px;
     border: none;
+    cursor: pointer;
+  transition: background-color 0.3s ease; 
 
+}
+
+.btn-primary:hover{
+     background-color: #2980b9;
 }
 
 .banner-title {
