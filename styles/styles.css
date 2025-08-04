@@ -90,18 +90,21 @@ nav {
     font-size: 80px;
     color: #4E47FF;
     margin: 0;
+    font-family: sans-serif;
 }
 .number-of-focus-sessions{
     font-weight: bold;
     font-size: 80px;
     color: #4E47FF;
      margin: 0;
+     font-family: sans-serif;
 }
 .satisfaction-rate{
     font-weight: bold;
     font-size: 80px;
     color: #4E47FF;
      margin: 0;
+     font-family: sans-serif;
 }
 
 .outer-section-of-user{
@@ -116,5 +119,6 @@ nav {
 }
 
 .user-subtitle{
-    margin-bottom: 50px;
+    font-size: 20px;
+    margin: 0px 0px 50px 0px;
 }
